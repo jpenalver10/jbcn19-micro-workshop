@@ -1,6 +1,5 @@
 package clubs;
 
-import clubs.client.ClubsClient;
 import clubs.domain.Club;
 import io.micronaut.test.annotation.MicronautTest;
 import org.junit.jupiter.api.Test;
